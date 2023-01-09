@@ -12,5 +12,5 @@ I used two main sources to make this code
 3Blue1Brown: 
 https://www.3blue1brown.com/topics/neural-networks
 
-Michael Nielsen, Neural Networks and Deep learning
+Michael Nielsen, Neural Networks and Deep learning:
 http://neuralnetworksanddeeplearning.com/
